@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **interesting projects with Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/salambaalbaki](https://troopl.com/salambaalbaki)
+- 👨‍💻 All of my projects are available at [my portfolio](https://troopl.com/salambaalbaki)
 
 - 📫 How to reach me **salambaalbaki@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/rbuxa7eiqghmy98/salam_resume_2022.pdf?dl=0](https://www.dropbox.com/s/rbuxa7eiqghmy98/salam_resume_2022.pdf?dl=0)
+- 📄 Know about my experiences [view my resume](https://www.dropbox.com/s/rbuxa7eiqghmy98/salam_resume_2022.pdf?dl=0)
 
 - ⚡ Fun fact **I make delicious vegan chocolate chip cookies!**
 
