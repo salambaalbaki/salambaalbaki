@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [view my resume](https://www.dropbox.com/s/rbuxa7eiqghmy98/salam_resume_2022.pdf?dl=0)
 
-- ⚡ Fun fact **I make delicious vegan chocolate chip cookies!**
+- 🍪 Fun fact **I make delicious vegan chocolate chip cookies!** 
 
 
 <h3 align="left">Connect with me:</h3>
